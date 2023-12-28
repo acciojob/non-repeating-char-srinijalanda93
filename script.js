@@ -18,5 +18,5 @@ function firstNonRepeatedChar(str) { // Use an object to store character frequen
     return null;
 	
 }
-// const input = prompt("Enter a string");
-// alert(firstNonRepeatedChar(input)); 
+const input = prompt("Enter a string");
+alert(firstNonRepeatedChar(input)); 
